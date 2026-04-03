@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="thumbnail43.png" width="800">
+</p>
+
+---
+
 # 🧠 ML Evaluation - Breast Cancer Tumor Prediction
 
 A Machine Learning project that compares multiple classification algorithms to predict breast cancer tumors and identifies the best-performing model using cross-validation.
@@ -83,7 +89,11 @@ S. Senthamil Selvan
 Email: senthamils445@gmail.com  
 Location: Tamil Nadu, India  
 
-LinkedIn: https://www.linkedin.com/in/senthamil45  
+## 🔗 Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/senthamil45)
+- 🌍 [Portfolio](https://senthamill.vercel.app/)
+- 💻 [GitHub](https://github.com/selvan-01/Breast_Cancer_Tumor_Prediction_XGBOOST_ML.git) 
 
 ## ⭐ Support
 
